@@ -1,0 +1,2 @@
+# jaya
+make android library
